@@ -1,7 +1,7 @@
 # GitHub Showcase Update - Complete ✅
 
 **Date:** October 31, 2025  
-**Repository:** https://github.com/sunny2196/lab-automation-scripts (public-showcase branch)  
+**Repository:** https://github.com/sunny2196/IntraMind-Showcase (PUBLIC)  
 **Status:** Successfully Updated with Visual Assets & Mathematical Proofs
 
 ---
@@ -182,17 +182,17 @@ Files: 1 changed, 286 insertions(+)
 
 ## 🔗 Live Links
 
-**Repository URL:** https://github.com/sunny2196/lab-automation-scripts
+**Repository URL:** https://github.com/sunny2196/IntraMind-Showcase (PUBLIC ✅)
 
 **Direct Asset Links:**
-- Performance Comparison: `public-showcase/showcase/performance-comparison.png`
-- Benchmark Results: `public-showcase/showcase/benchmark-results.png`
-- Speedup Gains: `public-showcase/showcase/speedup-gains.png`
-- Context Optimization: `public-showcase/showcase/context-optimization.png`
-- Architecture Flow: `public-showcase/showcase/architecture-flow.png`
-- Performance Proofs: `public-showcase/showcase/PERFORMANCE_PROOFS.md`
-- Mathematical Validation: `public-showcase/showcase/MATHEMATICAL_VALIDATION.md`
-- Showcase README: `public-showcase/showcase/README.md`
+- Performance Comparison: `showcase/performance-comparison.png`
+- Benchmark Results: `showcase/benchmark-results.png`
+- Speedup Gains: `showcase/speedup-gains.png`
+- Context Optimization: `showcase/context-optimization.png`
+- Architecture Flow: `showcase/architecture-flow.png`
+- Performance Proofs: `showcase/PERFORMANCE_PROOFS.md`
+- Mathematical Validation: `showcase/MATHEMATICAL_VALIDATION.md`
+- Showcase README: `showcase/README.md`
 
 ---
 
@@ -378,8 +378,8 @@ The repository is now fully equipped with:
 
 ## 🎉 Final Status: COMPLETE ✅
 
-**Repository:** https://github.com/sunny2196/lab-automation-scripts  
-**Branch:** main (public-showcase/)  
+**Repository:** https://github.com/sunny2196/IntraMind-Showcase (PUBLIC ✅)  
+**Visibility:** Public (Anyone can view)  
 **Status:** Ready for Academic/Professional Use  
 **Quality:** Publication Grade (300 DPI, Statistical Validation, Peer-Review Ready)
 
